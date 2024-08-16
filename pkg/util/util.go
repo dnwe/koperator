@@ -32,7 +32,7 @@ import (
 	"time"
 
 	"emperror.dev/errors"
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	clusterregv1alpha1 "github.com/cisco-open/cluster-registry-controller/api/v1alpha1"
 	"github.com/go-logr/logr"
 	"github.com/imdario/mergo"
